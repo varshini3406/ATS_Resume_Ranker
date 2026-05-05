@@ -1,4 +1,4 @@
-flask
-pandas
-numpy
-scikit-learn
+fastapi
+uvicorn
+python-multipart
+pdfplumber
